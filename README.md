@@ -1,5 +1,9 @@
 # ProFinder
 
+ProFinder is an innovative frontend solution designed to simplify online shopping by providing real-time insights on when and where to buy products. With features like trend analysis, price comparison, and optimal purchase timing, it enhances user decision-making and shopping experience through an intuitive interface.
+
+## Description
+
 ProFinder is a cutting-edge solution designed to enhance the online shopping experience. By providing users with real-time insights, price comparisons, and optimal purchase timing, ProFinder helps users make informed decisions about when and where to buy products.
 
 ## Features
@@ -24,3 +28,9 @@ ProFinder is a cutting-edge solution designed to enhance the online shopping exp
 
 7. **Increased Traffic During Sales:**
    By identifying when prices are at their lowest, ProFinder can increase customer traffic by 20-30%, benefiting e-commerce owners.
+
+## TechStack
+
+**Client:** HTML/ CSS , React
+
+**Server:** Node, Express, MongoDB 
