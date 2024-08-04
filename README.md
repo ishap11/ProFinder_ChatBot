@@ -35,6 +35,10 @@ ProFinder is a cutting-edge solution designed to enhance the online shopping exp
 
 **Server:** Node, Express, MongoDB 
 
+## Example Image
+
+![Screenshot 2024-08-04 122715](https://github.com/user-attachments/assets/f187ffd6-3ccf-4e1e-a36e-9fef4d5b4c5a)
+
 ## Dataset Link
 
 **Access Link:** https://drive.google.com/file/d/15Knb-EZTVrsEtB9S10Wy5lT4VzgNSe2u/view?usp=sharing
