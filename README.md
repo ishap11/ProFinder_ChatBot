@@ -1,6 +1,6 @@
 # ProFinder
 
-ProFinder is an innovative frontend solution designed to simplify online shopping by providing real-time insights on when and where to buy products. With features like trend analysis, price comparison, and optimal purchase timing, it enhances user decision-making and shopping experience through an intuitive interface.
+ProFinder is an innovative solution designed to simplify online shopping by providing real-time insights on when and where to buy products. With features like trend analysis, price comparison, and optimal purchase timing, it enhances user decision-making and shopping experience through an intuitive interface.
 
 ## Description
 
