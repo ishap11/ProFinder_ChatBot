@@ -32,11 +32,12 @@ ProFinder is a cutting-edge solution designed to enhance the online shopping exp
 ## TechStack
 
 **Client:** HTML/ CSS , React
+
 **Server:** Node, Express, MongoDB 
 
 ## Example Image
-
-![WhatsApp Image 2024-08-03 at 19 24 28_97de91fa](https://github.com/user-attachments/assets/2936d07e-6cb4-4b7d-95c5-ec07f6eb273d)
+C:\Users\dell\OneDrive\Documents\GitHub\ProFinder\ProFinder_ChatBot\assets\Screenshot 2024-08-04 122715.png
+![Screenshot 2024-08-04 122715](https://github.com/user-attachments/assets/2936d07e-6cb4-4b7d-95c5-ec07f6eb273d)
 
 ## Dataset Link
 
